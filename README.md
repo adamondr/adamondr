@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iam-t-adam
-- 👀 I’m interested in programming websites and discord bots.
-- 🌱 I’m currently learning node.js and html.
-- 💞️ I’m looking to collaborate on discord bot.
+- 👀 I’m interested in programming websites and desktop applications.
+- 🌱 I’m currently learning HTML, CSS, JS, PHP, Python and C#.
+- 💞️ I’m not looking after collaboration right now.
 - 📫 How to reach me: just send me a message.
 
 <!---
