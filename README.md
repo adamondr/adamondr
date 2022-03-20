@@ -22,7 +22,8 @@
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate with other Minecraft client developers
 - 🥅 2022 Goals: Learn more about Java
-- ⚡ Fun fact: I love to play bedwars
+- ⚡ Fun fact: I love to play bedwars<br><br>
+[Website](https://devondr.github.io)
 <!-- - 😻 Check out the NFT collection I created: CodeCats(https://opensea.io/collection/codecats?searchsortAscending=true&searchsortBy=PRICE&searchtoggles0=BUY_NOW) -->
 
 <!-- ### Connect with me:
