@@ -2,6 +2,11 @@
 
 # Hi there, I'm Adam - aka devondr 👋 
 
+![GitHub followers](https://img.shields.io/github/followers/devondr?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/devondr/devondr?style=for-the-badge)
+![GitHub User stars](https://img.shields.io/github/stars/devondr?label=User%20stars&style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/devondr/devondr?style=for-the-badge)
+
 <!-- !YouTube Channel Subscribers(https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)youtube
 !Website(https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)(https://codestackr.com)
 !Twitter Follow(https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)(https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
