@@ -1,4 +1,4 @@
-<img alt="adamondr banner" src="[https://i.imgur.com/nfGbTgI.png](https://raw.githubusercontent.com/adamondr/devondr/main/banner.png)">
+<img alt="adamondr banner" src="https://github.com/adamondr/adamondr/blob/main/banner.png?raw=true">
 
 # Hi there, I'm Adam 👋 
 
